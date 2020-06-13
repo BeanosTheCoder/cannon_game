@@ -4,6 +4,8 @@ Python Cannon Game for Children
 
 ![alt text](https://github.com/RoelTim/cannon_game/blob/master/cannon.png)
 
+Goal of the game: Shoot as many blue balls out of the sky by launching the red balls. You can shoot the red balls by clicking on the screen.
+
 Step 1: Make sure that you download the following files in the same folder on your computer:
 - cannon.py
 - bomb.wav
