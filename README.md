@@ -1,2 +1,3 @@
-# cannon_game
+# Cannon Game
+
 Python Cannon Game for Children
